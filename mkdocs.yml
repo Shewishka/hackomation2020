@@ -1,0 +1,6 @@
+site_name: HackOmation2020
+site_url: https://pages.gitlab.io/mkdocs
+theme: readthedocs
+
+pages:
+- Home: 'index.md'
