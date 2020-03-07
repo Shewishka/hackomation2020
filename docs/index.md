@@ -1,20 +1,27 @@
-Kind: Statement of Work
-Title: <Task or Project Name>
-Author: Hilton Lipschitz
-Affiliation: <Company Name>
-Date: 2016-03-04
-Version: 0.1
+# 1. Project Title: [%Title]
 
-# Project Title: [%Title]
+< Explain what your project does and why >
 
-## Overview
+## Overview & Features
 
-<What is the objective/goal is of this work>
+< features and special functions of your system>
 
-## Tasks
+## Demo / Proof of work
 
-<A list of the tasks to be performed — very high level, clearly written>
+< Fotos, video of your working project as proof of work>
 
 ## Deliverables
 
-<The deliverables of the project, so we know when it is complete>
+< The deliverables of the project, so we know when it is complete>
+- Project poster
+- Proof of concept working
+- Product pitch deck
+
+## Project landing page/website (optional)
+
+< if you created website or the like for your project link it up here>
+
+## the team & contact
+
+< Time to shine with your team .. show their expertise and contribution to the project >
+
