@@ -1,12 +1,20 @@
+Kind: Statement of Work
+Title: <Task or Project Name>
+Author: Hilton Lipschitz
+Affiliation: <Company Name>
+Date: 2016-03-04
+Version: 0.1
 
-# Team
+# Project Title: [%Title]
 
-#Theme
+## Overview
 
-#Research
+<What is the objective/goal is of this work>
 
-#Embedded Electronics & Programming
+## Tasks
 
-#Business Model
+<A list of the tasks to be performed — very high level, clearly written>
 
-#Final Project
+## Deliverables
+
+<The deliverables of the project, so we know when it is complete>
