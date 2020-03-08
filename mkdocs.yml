@@ -4,7 +4,7 @@ theme: readthedocs
 
 pages:
 - Home: 'index.md'
--Assignments:
+- Assignments:
     - 'Embedded Programming': 'embedded.md'
     - 'Front End': 'frontend.md'
     - 'Business Model': 'business.md'
