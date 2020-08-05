@@ -1,10 +1,9 @@
-image: python:alpine
+# .gitlab-ci.yml
+# Template for MKDocs documentation site in /docs folder on Gitlab
+image: python:3.8-slim
 
 before_script:
-  - pip install mkdocs
-  # Add your custom theme if not inside a theme_dir
-  # (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
-  # - pip install mkdocs-material
+  - pip install mkdocs "mkdocs-material<5.0"
 
 pages:
   script:
