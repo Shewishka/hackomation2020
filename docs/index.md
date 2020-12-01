@@ -7,7 +7,7 @@ We are building a small bluewater Hydropower that can be use by everyone. It wil
 This will be use to generate electricity for small devices when you are outdoor. This can be very usefull when you are at a place with no electricity. It has a magnet coupling so it
 is easy to switch propellers.
 
-![tag](img/logo.png)
+![tag](../img/ed.png)
 
 
 ## Overview & Features
